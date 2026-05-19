@@ -1,7 +1,5 @@
 La vida de Brian
-<<<<<<< HEAD
 Monty Python and the Holy Grail
-=======
 Marty Supreme
->>>>>>> 4e28c42be989882a3e560b6f88445ed194b3b648
 After movie
+El sentido de la vida
